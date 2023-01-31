@@ -12,9 +12,6 @@ public class EvenOddProgram
         {
             Console.WriteLine(num + " is an Even Number");
         }
-        else
-        {
-            Console.WriteLine(num + " is an Odd Number");
-        }
+        
     }
 }
